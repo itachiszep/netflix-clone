@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Navbar from "./components/Navbar";
-import Bottom from "./components/Bottom";
 import Slider from "./components/Slider";
 import Cards from "./components/Cards";
 import Questions from "./components/Questions";
